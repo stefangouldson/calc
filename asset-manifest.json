@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/calc/static/css/main.80ab8425.chunk.css",
+    "main.js": "/calc/static/js/main.3ae62060.chunk.js",
+    "main.js.map": "/calc/static/js/main.3ae62060.chunk.js.map",
+    "runtime~main.js": "/calc/static/js/runtime~main.dd744c6b.js",
+    "runtime~main.js.map": "/calc/static/js/runtime~main.dd744c6b.js.map",
+    "static/js/2.08ff8035.chunk.js": "/calc/static/js/2.08ff8035.chunk.js",
+    "static/js/2.08ff8035.chunk.js.map": "/calc/static/js/2.08ff8035.chunk.js.map",
+    "index.html": "/calc/index.html",
+    "precache-manifest.3d139b12f22a4d91572d6bb15fb0c950.js": "/calc/precache-manifest.3d139b12f22a4d91572d6bb15fb0c950.js",
+    "service-worker.js": "/calc/service-worker.js",
+    "static/css/main.80ab8425.chunk.css.map": "/calc/static/css/main.80ab8425.chunk.css.map",
+    "static/media/logo.svg": "/calc/static/media/logo.5d5d9eef.svg"
+  }
+}
