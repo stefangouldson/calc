@@ -1,3 +1,7 @@
+Calculator made using React.js. This was my first full react project after just under 1 week of learning it.
+Below is the generic readMe made when using create react app command.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
